@@ -1,0 +1,32 @@
+<?php
+
+$lang['debtor_integration']['Debtor Title'] = 'Debtors';
+$lang['debtor_integration']['Add New Debtor'] = 'Add New Debtor';
+$lang['debtor_integration']['Update Debtor'] = 'Update Debtor';
+$lang['debtor_integration']['Debtor List'] = 'Debtor List';
+$lang['debtor_integration']['Debtor Name'] = 'Debtor Name';
+$lang['debtor_integration']['Debtor Type'] = 'Debtor Type';
+$lang['debtor_integration']['Debtor Id'] = 'Debtor Id';
+$lang['debtor_integration']['Debtor Description'] = 'Debtor Description';
+$lang['debtor_integration']['VAT Number'] = 'VAT Number';
+$lang['debtor_integration']['PAN Number'] = 'PAN Number';
+$lang['debtor_integration']['GST Number'] = 'GST Number';
+$lang['debtor_integration']['Marketing Segment'] = 'Marketing Segment';
+$lang['debtor_integration']['Booking Source'] = 'Booking Source';
+$lang['debtor_integration']['Address'] = 'Address';
+$lang['debtor_integration']['City'] = 'City';
+$lang['debtor_integration']['State/Province'] = 'State/Province';
+$lang['debtor_integration']['Country'] = 'Country';
+$lang['debtor_integration']['Credit Limit'] = 'Credit Limit';
+$lang['debtor_integration']['Select Option'] = 'Select Option';
+$lang['debtor_integration']['Not selected'] = 'Not selected';
+$lang['debtor_integration']['Contact Person Name'] = 'Contact Person Name';
+$lang['debtor_integration']['Email'] = 'Email';
+$lang['debtor_integration']['Phone'] = 'Phone';
+$lang['debtor_integration']['Booker ID'] = 'Booker ID';
+$lang['debtor_integration']['Attach rate Code'] = 'Attach rate Code';
+$lang['debtor_integration']['Submit'] = 'Submit';
+$lang['debtor_integration']['Edit'] = 'Edit';
+$lang['debtor_integration']['Disable'] = 'Disable';
+$lang['debtor_integration']['Enable'] = 'Enable';
+$lang['debtor_integration']['Submit Contact'] = 'Submit & Add Contacts';
